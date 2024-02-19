@@ -1,0 +1,13 @@
+what is Pseudocode?
+pseudocode is a general way of representing logic of code.
+
+what are the data types in c++?
+bool = 1 bytes,
+char = 1 bytes,
+int = 2 bytes, 32-bit otherwise 64-bit - 4 bytes
+float = 4 bytes, 32-bit otherwise 64-bit - 8 bytes
+double = 8 bytes.
+
+what is data structure?
+data structure is a way of organizing data in a computer that is used to store and organize data. 
+It is a way of arranging data on a computer so that it can be accessed and updated efficiently.
