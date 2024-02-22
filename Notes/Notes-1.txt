@@ -9,5 +9,9 @@ float = 4 bytes, 32-bit otherwise 64-bit - 8 bytes
 double = 8 bytes.
 
 what is data structure?
-data structure is a way of organizing data in a computer that is used to store and organize data. 
+A data structure is a specialized format for organizing, processing, retrieving and storing data.
 It is a way of arranging data on a computer so that it can be accessed and updated efficiently.
+
+what is algorithm?
+An algorithm is a set of commands that must be followed for a computer to perform calculations
+or other problem-solving operations.
