@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.py": "pip-requirements",
+        "ostream": "cpp"
+    }
+}
