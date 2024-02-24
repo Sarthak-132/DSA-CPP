@@ -1,17 +1,33 @@
-what is Pseudocode?
+que. (1) what is Pseudocode?
 pseudocode is a general way of representing logic of code.
 
-what are the data types in c++?
+que. (2) what are the data types in c++?
 bool = 1 bytes,
 char = 1 bytes,
 int = 2 bytes, 32-bit otherwise 64-bit - 4 bytes
 float = 4 bytes, 32-bit otherwise 64-bit - 8 bytes
 double = 8 bytes.
 
-what is data structure?
+
+Lecture-......2
+
+que. (3) what is data structure?
 A data structure is a specialized format for organizing, processing, retrieving and storing data.
 It is a way of arranging data on a computer so that it can be accessed and updated efficiently.
 
-what is algorithm?
+que. (4) what is algorithm?
 An algorithm is a set of commands that must be followed for a computer to perform calculations
 or other problem-solving operations.
+
+
+Lecture.......3
+
+que. (5) why we use #include<iostream> and using namespace std;
+#include <iostream> is a header file library that lets us work with input and output objects, 
+such as cout (used in line 5). Header files add functionality to C++ programs. 
+using namespace std means that we can use names for objects and variables from the standard library.
+
+que. (6) input/cin>>/scanf reads or not to "/t, \n, space"
+ans - no, it is not read the /t, \n and space. because it works always wven if you used any of these things.
+
+Note -  cin.get() used to take ascii value of any number, charactor or symbol, spaces 
