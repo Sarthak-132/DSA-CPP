@@ -11,13 +11,20 @@ int main() {
 
     cin >> n ; 
 
-    for (int i = 1 ; i <= n ; i++) {
+    // for (int i = 1 ; i <= n ; i++) {
 
-        cout << num ;
+    //     cout << num ;
 
-        cout << "\n";
+    //     cout << "\n";
 
-        num = num + 1;
+    //     num = num + 1;
+    // }
+
+    while (/* condition */ num <= n)
+    {
+        cout << num << "\n";
+        num++;
     }
+    
 
 }
