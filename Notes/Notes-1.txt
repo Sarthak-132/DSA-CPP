@@ -31,3 +31,11 @@ que. (6) input/cin>>/scanf reads or not to "/t, \n, space"
 ans - no, it is not read the /t, \n and space. because it works always wven if you used any of these things.
 
 Note -  cin.get() used to take ascii value of any number, charactor or symbol, spaces 
+
+why learn C++ ?
+C++ is one of the most used and popular programming languages.
+C++ is used in making operating systems, embedded systems, and Graphical User Interfaces.
+It is an object-oriented programming language that implements all the OOPs concepts such as Abstraction, Encapsulation, and Inheritance, which gives a clear structure to programs and allows code to be reused, lowering development costs and providing security.
+It is portable and can be used to create applications that can be adapted to multiple platforms.
+C++ is easy to learn so that you can choose it as your first programming language.
+It makes programming easy for programmers to switch to C++ because its syntax is similar to C, Java, and C#.
