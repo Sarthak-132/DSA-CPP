@@ -10,7 +10,7 @@ int main()
     cout << "Enter the value of a, b and c : " << endl;
     cin >> a >> b >> c;
 
-    float avg = (a + b + c) / 3;
+    int avg = (a + b + c) / 3;
 
     cout << "The average is : " << avg << endl;
 

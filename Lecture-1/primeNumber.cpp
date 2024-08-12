@@ -12,7 +12,7 @@ int main()
 
     // check the prime number
 
-    for (int i = 1; i <= number; i++)
+    for (i = 1; i <= number; i++)
     {
 
         if ((number % i) == 0)
