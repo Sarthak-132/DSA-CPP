@@ -7,7 +7,7 @@ int main (){
 
     sum = 0;
 
-    std::cout << "Enter the value of n : " << std::endl;
+    std::cout << "Enter the value of n : ";
 
     std::cin >> n;
 
