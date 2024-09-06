@@ -5,7 +5,7 @@
 using namespace std;
  
 void check(char ch)
-{
+{ 
  
     if (ch >= 'A' && ch <= 'Z')
         cout << ch << " is an UpperCase character\n";
