@@ -1,7 +1,6 @@
-// 1
-// 2 1
-// 3 2 1
-
+// A
+// A B
+// A B C
 
 #include <iostream>
 #include <bits/stdc++.h>
@@ -13,14 +12,14 @@ int main() {
 
     cin >> n;
 
-    for (int i = 0; i <= n; i++)
-    {
-        for (int j = 0; j <= i; j++)
-        {
-            cout << i - j + 1 << " ";
+    for (int i = 1; i <= n; i++){
+        for (int j = 1; j <= i; j++){
+            char ch = 'A' + j - 1;
+            cout << ch << " ";
         }
         cout << endl;
     }
     
     return 0;
+    
 }
