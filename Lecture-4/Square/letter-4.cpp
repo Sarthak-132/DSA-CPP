@@ -1,3 +1,7 @@
+// A B C
+// B C D
+// C D E
+
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
