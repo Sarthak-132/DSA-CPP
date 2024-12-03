@@ -47,4 +47,43 @@ pattern -3 => logic => j
 pattern -4 => logic => n-j+1 
 pattern -5 => logic => n-j+1 
 
+lecture............5
+when you declare something like - 
+int a; 
+cout << a;       
+as a output it will give garbage value 1 or something else
+
+block scope is be like - recreate same name of variable in other block it is valid 
+int a;
+if(1){
+    int a;
+}
+
+it is valid 
+if(1){
+    int a;
+        if(1){
+            int a;
+            if(1){
+                int a;
+            }
+        }   
+    }
+
+it is valid
+if(1){
+    int a;
+    if(1){
+        cout << a;          note - here previews int a; will be used 
+    }
+}   
+
+operator precedence - gfg (which operator have higher value)
+"https://www.geeksforgeeks.org/operator-precedence-and-associativity-in-c/"
+
+note - when you need last number of digit then find out reminder as a instance => 234 % 10 = 4
+
+
+
+
 
